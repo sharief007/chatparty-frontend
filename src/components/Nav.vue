@@ -33,8 +33,8 @@ export default {
 <style scoped>
 
 @media only screen and (max-width: 900px) {
-  /*.hide-on-mobile {*/
-  /*  display: none;*/
-  /*}*/
+  .hide-on-mobile {
+    display: none;
+  }
 }
 </style>
